@@ -14,7 +14,7 @@ from de_aws_cw_tips import cw_utils as CW
 
 ## Enviroments
 
-* Python >= 3.9
+* Python >= 3.7
 
 ## Tests
 
